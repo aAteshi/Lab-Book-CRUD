@@ -22,7 +22,6 @@
 - **ลบหนังสือ** - ลบหนังสือพร้อม confirmation dialog
 - **Pull to Refresh** - รีเฟรชข้อมูลแบบ pull down
 - **Permission Control** - ตรวจสอบสิทธิ์การแก้ไข/ลบหนังสือ
-- **Error Handling** - จัดการ error และแสดงข้อความที่เหมาะสม
 
 ### หน้าข้อมูลรายวิชา (About Course)
 - ข้อมูลรายวิชา IN405109
